@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shakeeb-droids
-- 👀 I’m interested in android applications,meager pint of web dev, coffe and jam.
+- 👀 I’m interested in Coffee and Jam more than Android Application, lastly have meager pint of interest in web dev
 - 🌱 I’m currently learning Data Science, Machine Learning and DS
 - 💞️ I’m looking to collaborate on projects on Machine Learning, Android Application
 - 📫 How to reach me ... email me @shakeebshahid9@gmail.com
