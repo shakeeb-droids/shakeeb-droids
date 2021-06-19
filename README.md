@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @shakeeb-droids
-file:///home/mdshahid/Downloads/macbook-minimal-dark-wallpaper.jpg![image](https://user-images.githubusercontent.com/73432464/122635840-b19e9800-d103-11eb-9079-04f72936e630.png)
-
-
 - 👀 I’m interested in Coffee☕, Jam🍓 but not more than Android Application, lastly have meager pint of interest in web dev
 - 🌱 I’m currently learning how to use GitHub, Data Science, Machine Learning
 - 💞️ I’m looking to collaborate on projects on Machine Learning, Android Application.
