@@ -8,9 +8,8 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shakeeb-droids&theme=blue-green)
 
 
+
+
 <img src=https://komarev.com/ghpvc/?username = shakeeb-droids/>
 
-<a href = "https://github.com/shakeeb-droids/shakeeb-droids/graphs/contributors">
-<img src = "https://contrib.rocks/image?repo = shakeeb-droids/repository_name"/>
-</a>
-Made with [contributors-img](https://contrib.rocks).
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url =https://github.com/shakeeb-droids)
