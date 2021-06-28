@@ -3,5 +3,3 @@
 - 🌱 I’m currently learning how to use GitHub and trying to hone everything LOLOLOLo
 - 💞️ I’m looking to collaborate on projects on Machine Learning, Android Application.
 - 📫 How to reach me ... ✉️ me @shakeebshahid9@gmail.com
-(https://github-readme-stats.vercel.app/api/top-langs/?username=shakeeb-droids&theme=blue-green)
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=shakeeb-droids=true)
