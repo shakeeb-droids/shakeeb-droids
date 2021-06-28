@@ -9,7 +9,4 @@
 
 
 
-
-<img src=https://komarev.com/ghpvc/?username = shakeeb-droids/>
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url =https://github.com/shakeeb-droids)
+ 
