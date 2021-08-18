@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shakeeb-droids
-- 👀 I’m interested in Coffee☕, Jam🍓 but not more than Android Application, lastly have meager pint of interest in web dev
+- 👀 I’m interested in web dev,cp and dsa.
 - 🌱 I’m currently learning how to use GitHub and trying to hone everything LOLOLOLo
 - 💞️ I’m looking to collaborate on projects on Machine Learning, Android Application.
 - 📫 How to reach me ... ✉️ me @shakeebshahid9@gmail.com
